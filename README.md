@@ -5,5 +5,5 @@
   <br />
 </div>
 
-## What is Boost AI
+## What is Boost AI?
 
